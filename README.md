@@ -27,7 +27,7 @@
 #### 安装依赖
 
 ```console
-npm install @wepy/cli@next -g
+npm install @wepy/cli@2.0.0-alpha.20 -g
 cd community
 npm install
 ```
