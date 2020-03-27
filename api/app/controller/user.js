@@ -268,6 +268,9 @@ class UserController extends Controller {
         const user = {
             [filed]: value,
         };
+        if (['userType', 'grade','followNum', 'fansNum', 'thumbsNum', 'drill', 'shell', 'openId', 'unionid', 'shareId', 'gzhId'].includes(filed) ) {
+            return this.fail()
+        }
         if (filed === 'birthday') {
             const date = new Date(value);
             const m = date.getMonth() + 1;

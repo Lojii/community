@@ -16,6 +16,10 @@ class TipController extends Controller {
                 this.fail(10030, '玉帛币不足')
                 return
             }
+            if (fromId === toId) {
+                this.fail(10030, '不能自己给自己打赏')
+                return
+            }
             const isOk = await this.ctx.model.transaction(async t => {
                 if (!await this.decrement('drill', { id: fromId }, num, t, 'User')) {
                     throw Error('打赏者扣除玉帛币出错')
@@ -105,7 +109,7 @@ class TipController extends Controller {
         const userId = this.user.userId
         const user = await this._get(userId)
         if (user) {
-            if (user.shell < num) {
+            if (user.shell < num && num > 0) {
                 this.fail(10030, '玉帛贝不足')
                 return
             }

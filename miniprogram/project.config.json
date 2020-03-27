@@ -182,6 +182,12 @@
 					"pathName": "pages/topic-add",
 					"query": "",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "plugin/tip/monetize",
+					"pathName": "plugin/tip/monetize",
+					"scene": null
 				}
 			]
 		}

@@ -103,8 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
-miniprogram
-api/config/env
-api/config/config.prod.js
-api/app/public/yidong
+# api/config/env
+# api/config/config.prod.js
+# api/app/public/yidong
 weapp
+api
