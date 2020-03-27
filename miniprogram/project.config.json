@@ -21,7 +21,7 @@
 	},
 	"compileType": "miniprogram",
 	"appid": "wxccfdb0fcf115d175",
-	"projectname": "community",
+	"projectname": "miniprogram",
 	"miniprogramRoot": "weapp/",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
