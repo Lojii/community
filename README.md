@@ -44,22 +44,22 @@ wepy build --watch
 
 # 玉帛书小程序码
 
-![小程序码](https://www.wutuobangxinyougou.com/public/images/qr_1.jpg)
+![小程序码](https://www.wutuobangxinyougou.com/images/qr.jpg)
 
 
 # 玉帛书交流群(加我拉群)
 
-![截图](https://www.wutuobangxinyougou.com/public/images/user.png)
+![截图](https://www.wutuobangxinyougou.com/images/user.png)
 ![qq群](https://github.com/liubin1592/community/blob/master/qq.png)
 
 # 打赏
 ---
 ##### 如果用着不错，可以『打赏』支持。因为有你，开源更美好。
 
-![截图](https://www.wutuobangxinyougou.com/public/pay.png)
+![截图](https://www.wutuobangxinyougou.com/pay.png)
 
 # 小程序内部截图
 
-![截图](https://www.wutuobangxinyougou.com/public/images/screenshot_2.jpg)
+![截图](https://www.wutuobangxinyougou.com/images/screenshot_2.jpg)
 
-![截图](https://www.wutuobangxinyougou.com/public/images/screenshot_1.jpg)
+![截图](https://www.wutuobangxinyougou.com/images/screenshot_1.jpg)
