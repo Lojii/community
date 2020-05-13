@@ -57,7 +57,7 @@ wepy build --watch
 ---
 ##### 如果用着不错，可以『打赏』支持。因为有你，开源更美好。
 
-![截图](https://www.wutuobangxinyougou.com/pay.png)
+![截图](https://www.wutuobangxinyougou.com/pay1.png)
 
 # 小程序内部截图
 
