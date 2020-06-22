@@ -48,10 +48,9 @@ wepy build --watch
 ![小程序码](https://www.wutuobangxinyougou.com/images/qr.jpg)
 
 
-# 玉帛书交流群(加我拉群)
+# 合作兼职开发
 
 ![截图](https://www.wutuobangxinyougou.com/images/user.png)
-![qq群](https://www.wutuobangxinyougou.com/images/qq.png)
 
 # 打赏
 ---
