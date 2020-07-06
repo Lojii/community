@@ -48,7 +48,7 @@ wepy build --watch
 ![小程序码](https://www.wutuobangxinyougou.com/images/qr.jpg)
 
 
-# 合作兼职开发
+# 合作
 
 ![截图](https://www.wutuobangxinyougou.com/images/user.png)
 
